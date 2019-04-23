@@ -476,7 +476,7 @@ books:
 
   - title: "Inferno"
     author: "Dante Alighieri"
-    have: False
+    have: True
     read: False
 
   - title: "A Grave For A Dolphin"
