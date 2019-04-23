@@ -1,0 +1,505 @@
+---
+
+# https://www.amazon.com/s?k=Journey+Into+The+Whirlwind&i=digital-text&rh=n%3A154606011%2Cp_lbr_one_browse-bin%3AEugenia+Semenovna+Ginzburg
+# https://www.amazon.com/s?k=lolita&i=digital-text&rh=p_lbr_one_browse-bin%3AVladimir+Nabokov&dc
+
+books:
+  - title: "Interviews With Francis Bacon"
+    author: "David Sylvester"
+    have: False
+    read: False
+
+  - title: "Billy Liar"
+    author: "Keith Waterhouse"
+    have: False
+    read: False
+
+  - title: "Room At The Top"
+    author: "John Braine"
+    have: False
+    read: False
+
+  - title: "Douglass Harding"
+    author: "On Having No Head"
+    have: False
+    read: False
+
+  - title: "Kafka Was The Rage"
+    author: "Anatole Broyard"
+    have: False
+    read: False
+
+  - title: "A Clockwork Orange"
+    author: "Anthony Burgess"
+    have: False
+    read: False
+
+  - title: "City Of Night"
+    author: "John Rechy"
+    have: False
+    read: False
+
+  - title: "The Brief Wondrous Life Of Oscar Wao"
+    author: "Junot Diaz"
+    have: False
+    read: False
+
+  - title: "Madame Bovary"
+    author: "Gustave Flaubert"
+    have: False
+    read: False
+
+  - title: "Iliad"
+    author: "Homer"
+    have: False
+    read: False
+
+  - title: "As I Lay Dying"
+    author: "William Faulkner"
+    have: False
+    read: False
+
+  - title: "Tadanori Yokoo"
+    author: "Tadanori Yokoo"
+    have: False
+    read: False
+
+  - title: "Berlin Alexanderplatz"
+    author: "Alfred Döblin"
+    have: False
+    read: False
+
+  - title: "Inside The Whale And Other Essays"
+    author: "George Orwell"
+    have: False
+    read: False
+
+  - title: "Mr. Norris Changes Trains"
+    author: "Christopher Isherwood"
+    have: False
+    read: False
+
+  - title: "Halls Dictionary Of Subjects And Symbols In Art"
+    author: "James A. Hall"
+    have: False
+    read: False
+
+  - title: "David Bomberg"
+    author: "Richard Cork"
+    have: False
+    read: False
+
+  - title: "Blast"
+    author: "Wyndham Lewis"
+    have: False
+    read: False
+
+  - title: "Passing"
+    author: "Nella Larson"
+    have: False
+    read: False
+
+  - title: "Beyond The Brillo Box"
+    author: "Arthur C. Danto"
+    have: False
+    read: False
+
+  - title: "The Origin Of Consciousness In The Breakdown Of The Bicameral Mind"
+    author: "Julian Jaynes"
+    have: False
+    read: False
+
+  - title: "In Bluebeard's Castle"
+    author: "George Steiner"
+    have: False
+    read: False
+
+  - title: "Hawksmoor"
+    author: "Peter Ackroyd"
+    have: False
+    read: False
+
+  - title: "The Divided Self"
+    author: "R. D. Laing"
+    have: False
+    read: False
+
+  - title: "he Stranger"
+    author: "Albert Camus"
+    have: False
+    read: False
+
+  - title: "Infants Of The Spring"
+    author: "Wallace Thurman"
+    have: False
+    read: False
+
+  - title: "The Quest For Christa T"
+    author: "Christa Wolf"
+    have: False
+    read: False
+
+  - title: "The Songlines"
+    author: "Bruce Chatwin"
+    have: False
+    read: False
+
+  - title: "Nights At The Circus"
+    author: "Angela Carter"
+    have: False
+    read: False
+
+  - title: "The Master And Margarita"
+    author: "Mikhail Bulgakov"
+    have: False
+    read: False
+
+  - title: "The Prime Of Miss Jean Brodie"
+    author: "Muriel Spark"
+    have: False
+    read: False
+
+  - title: "Lolita"
+    author: "Vladimir Nabokov"
+    have: False
+    read: False
+
+  - title: "Herzog"
+    author: "Saul Bellow"
+    have: False
+    read: False
+
+  - title: "Puckoon"
+    author: "Spike Milligan"
+    have: False
+    read: False
+
+  - title: "Black Boy"
+    author: "Richard Wright"
+    have: False
+    read: False
+
+  - title: "The Great Gatsby"
+    author: "F. Scott Fitzgerald"
+    have: False
+    read: False
+
+  - title: "The Sailor Who Fell From Grace With The Sea"
+    author: "Yukio Mishima"
+    have: False
+    read: False
+
+  - title: "Darkness At Noon"
+    author: "Arthur Koestler"
+    have: False
+    read: False
+
+  - title: "The Waste Land"
+    author: "T.S. Elliot"
+    have: False
+    read: False
+
+  - title: "McTeague"
+    author: "Frank Norris"
+    have: False
+    read: False
+
+  - title: "Money"
+    author: "Martin Amis"
+    have: False
+    read: False
+
+  - title: "The Outsider"
+    author: "Colin Wilson"
+    have: False
+    read: False
+
+  - title: "Strange People"
+    author: "Frank Edwards"
+    have: False
+    read: False
+
+  - title: "English Journey"
+    author: "J.B. Priestley"
+    have: False
+    read: False
+
+  - title: "A Confederacy Of Dunces"
+    author: "John Kennedy Toole"
+    have: False
+    read: False
+
+  - title: "The Day Of The Locust"
+    author: "Nathanael West"
+    have: False
+    read: False
+
+  - title: "1984"
+    author: "George Orwell"
+    have: False
+    read: False
+
+  - title: "The Life And Times Of Little Richard"
+    author: "Charles White"
+    have: False
+    read: False
+
+  - title: "Awopbopaloobop Alopbamboom: The Golden Age of Rock"
+    author: "Nik Cohn"
+    have: False
+    read: False
+
+  - title: "Mystery Train"
+    author: "Greil Marcus"
+    have: False
+    read: False
+
+  - title: "Beano comic"
+    author: "Beano"
+    have: False
+    read: False
+
+  - title: "Raw comic"
+    author: "Raw"
+    have: False
+    read: False
+
+  - title: "White Noise"
+    author: "Don DeLillo"
+    have: False
+    read: False
+
+  - title: "Sweet Soul Music: Rhythm And Blues And The Southern Dream Of Freedom"
+    author: "Peter Guralnick"
+    have: False
+    read: False
+
+  - title: "John Cage"
+    author: "Silence: Lectures And Writing"
+    have: False
+    read: False
+
+  - title: "Writers At Work: The Paris Review Interviews"
+    author: "Malcolm Cowley"
+    have: False
+    read: False
+
+  - title: "The Sound Of The City: The Rise Of Rock And Roll"
+    author: "Charlie Gillete"
+    have: False
+    read: False
+
+  - title: "Octobriana And The Russian Underground"
+    author: "Peter Sadecky"
+    have: False
+    read: False
+
+  - title: "The Street"
+    author: "Ann Petry"
+    have: False
+    read: False
+
+  - title: "Wonder Boys"
+    author: "Michael Chabon"
+    have: False
+    read: False
+
+  - title: "Last Exit To Brooklyn"
+    author: "Hubert Selby, Jr."
+    have: False
+    read: False
+
+  - title: "A People's History Of The United States"
+    author: "Howard Zinn"
+    have: False
+    read: False
+
+  - title: "The Age Of American Unreason"
+    author: "Susan Jacoby"
+    have: False
+    read: False
+
+  - title: "Metropolitan Life"
+    author: "Fran Lebowitz"
+    have: False
+    read: False
+
+  - title: "The Coast Of Utopia"
+    author: "Tom Stoppard"
+    have: False
+    read: False
+
+  - title: "The Bridge"
+    author: "Hart Crane"
+    have: False
+    read: False
+
+  - title: "All The Emperor's Horses (aka Peking Story)"
+    author: "David Kidd"
+    have: False
+    read: False
+
+  - title: "Fingersmith"
+    author: "Sarah Waters"
+    have: False
+    read: False
+
+  - title: "Earthly Powers"
+    author: "Anthony Burgess"
+    have: False
+    read: False
+
+  - title: "The 42nd Parallel"
+    author: "John Dos Passos"
+    have: False
+    read: False
+
+  - title: "Tales Of Beatnik Glory"
+    author: "Ed Saunders"
+    have: False
+    read: False
+
+  - title: "The Bird Artist"
+    author: "Howard Norman"
+    have: False
+    read: False
+
+  - title: "Nowhere To Run The Story Of Soul Music"
+    author: "Gerri Hirshey"
+    have: False
+    read: False
+
+  - title: "Before The Deluge"
+    author: "Otto Friedrich"
+    have: False
+    read: False
+
+  - title: "Sexual Personae: Art And Decadence From Nefertiti To Emily Dickinson"
+    author: "Camille Paglia"
+    have: False
+    read: False
+
+  - title: "The American Way Of Death"
+    author: "Jessica Mitford"
+    have: False
+    read: False
+
+  - title: "In Cold Blood"
+    author: "Truman Capote"
+    have: False
+    read: False
+
+  - title: "Lady Chatterly's Lover"
+    author: "D.H. Lawrence"
+    have: False
+    read: False
+
+  - title: "Teenage"
+    author: "Jon Savage"
+    have: False
+    read: False
+
+  - title: "Vile Bodies"
+    author: "Evelyn Waugh"
+    have: False
+    read: False
+
+  - title: "The Hidden Persuaders"
+    author: "Vance Packard"
+    have: False
+    read: False
+
+  - title: "The Fire Next Time"
+    author: "James Baldwin"
+    have: False
+    read: False
+
+  - title: "Viz comic"
+    author: "Viz"
+    have: False
+    read: False
+
+  - title: "Private Eye magazine"
+    author: "Private Eye"
+    have: False
+    read: False
+
+  - title: "Selected Poems"
+    author: "Frank O'Hara"
+    have: False
+    read: False
+
+  - title: "The Trial Of Henry Kissinger"
+    author: "Christopher Hitchens"
+    have: False
+    read: False
+
+  - title: "Flaubert's Parrot"
+    author: "Julian Barnes"
+    have: False
+    read: False
+
+  - title: "Maldodor"
+    author: "Comte de Lautréamont"
+    have: False
+    read: False
+
+  - title: "On The Road"
+    author: "Jack Kerouac"
+    have: False
+    read: False
+
+  - title: "Mr. Wilson's Cabinet of Wonders"
+    author: "Lawrence Weschler"
+    have: False
+    read: False
+
+  - title: "Zanoni by Edward"
+    author: "Bulwer-Lytton"
+    have: False
+    read: False
+
+  - title: "Transcendental Magic, Its Doctine and Ritual"
+    author: "Eliphas Lévi"
+    have: False
+    read: False
+
+  - title: "The Gnostic Gospels"
+    author: "Elaine Pagels"
+    have: False
+    read: False
+
+  - title: "The Leopard"
+    author: "Giusseppe Di Lampedusa"
+    have: False
+    read: False
+
+  - title: "Inferno"
+    author: "Dante Alighieri"
+    have: True
+    read: False
+
+  - title: "A Grave For A Dolphin"
+    author: "Alberto Denti di Pirajno"
+    have: False
+    read: False
+
+  - title: "The Insult"
+    author: "Rupert Thomson"
+    have: False
+    read: False
+
+  - title: "In Between The Sheets"
+    author: "Ian McEwan"
+    have: False
+    read: False
+
+  - title: "A People's Tragedy"
+    author: "Orlando Figes"
+    have: False
+    read: False
+
+  - title: "Journey Into The Whirlwind"
+    author: "Eugenia Ginzburg"
+    have: False
+    read: False
